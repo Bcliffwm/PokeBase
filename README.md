@@ -20,7 +20,9 @@ TODO:
 Required Tools:
 -Python
   -SQLAlchemy pip installed
+  
  -Jupyter Notebook (install from Anaconda Navigator if available)
+
 -PostgreSQL or any other SQL-based database
 
 Process:
