@@ -1,4 +1,4 @@
-# PokeBase
+# PokeData
 
 This is a personal project for SQLAlchemy Practice. By using a SQLAlchemy-derived engine, I connected my Jupyter Notebook kernel to the database that houses the most updated
 dataset I have on Pokemon. The dataset goes up to order #722, which has about 800 rows of pokemon data. 
