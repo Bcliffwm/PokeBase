@@ -18,6 +18,7 @@ TODO:
   | UPDATE: Bulk Insertion was successful! Using pd.to_sql() is extremely useful and convenient!
 
 Required Tools:
+
 -Python
   -SQLAlchemy pip installed
   
