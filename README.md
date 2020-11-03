@@ -1,7 +1,7 @@
 # PokeData
 
 This is a personal project for SQLAlchemy Practice. By using a SQLAlchemy-derived engine, I connected my Jupyter Notebook kernel to the database that houses the most updated
-dataset I have on Pokemon. The dataset goes up to order #722, which has about 800 rows of pokemon data. 
+dataset I have on Pokemon. The dataset goes up to order #721, which has a little under 800 rows of pokemon data. 
 
 The last entry is Volcanion, which is a generation 6 pokemon. The current generation as of this repository's creation is generation 8. Pokemon from the Sun, Moon, Shield & 
 Sword games and their information are not included. 
