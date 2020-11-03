@@ -19,8 +19,8 @@ Required Tools:
 
 Process:
 1) Clone this repository
-2) Create a new Database called "Pokemon" on any server and in the SQL flavor of your choice 
-3) Inside that new Database, create a table called "PokemonDB"
+2) Create a new Database called "PokemonDB" on any server and in the SQL flavor of your choice 
+3) Inside that new Database, create a table called "Pokemon"
 4) Create a python script called "config"
 5) Inside config.py, store your database's username, password, and port insde variable names called "username", "password" and "port" 
 6) Activate your Jupyter Notebook from the command line
