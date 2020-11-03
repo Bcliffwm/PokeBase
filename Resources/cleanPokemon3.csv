@@ -125,7 +125,7 @@ Number,Name,Type,Type1,Type2,Total,HP,Atk,Def,SpAk,SpDf,Spd,Generation,Legendary
 115,Kangaskhan,Normal,Normal,#N/A,490,105,95,80,40,80,90,1,FALSE,FALSE,TRUE
 115,Mega Kangaskhan,Normal,Normal,#N/A,590,105,125,100,60,100,100,1,FALSE,TRUE,TRUE
 116,Horsea,Water,Water,#N/A,295,30,40,70,70,25,60,1,FALSE,FALSE,FALSE
-117,Seadra,Water,Water,#N/A,440,55,65,95,95,45,85,1,FALSE,FALSE,TRUE
+117,Seadra,Water,Water,#N/A,440,55,65,95,95,45,85,1,FALSE,FALSE,FALSE
 118,Goldeen,Water,Water,#N/A,320,45,67,60,35,50,63,1,FALSE,FALSE,FALSE
 119,Seaking,Water,Water,#N/A,450,80,92,65,65,80,68,1,FALSE,FALSE,TRUE
 120,Staryu,Water,Water,#N/A,340,30,45,55,70,55,85,1,FALSE,FALSE,FALSE
@@ -712,8 +712,8 @@ Number,Name,Type,Type1,Type2,Total,HP,Atk,Def,SpAk,SpDf,Spd,Generation,Legendary
 646,Kyurem,Dragon Ice,Dragon,Ice,660,125,130,90,130,90,95,5,TRUE,FALSE,TRUE
 646,Black Kyurem,Dragon Ice,Dragon,Ice,700,125,170,100,120,90,95,5,TRUE,FALSE,TRUE
 646,White Kyurem,Dragon Ice,Dragon,Ice,700,125,120,90,170,100,95,5,TRUE,FALSE,TRUE
-647,Ordinary Forme,Water Fighting,Water,Fighting,580,91,72,90,129,90,108,5,FALSE,FALSE,TRUE
-647,Resolute Forme,Water Fighting,Water,Fighting,580,91,72,90,129,90,108,5,FALSE,FALSE,TRUE
+647,Keldeo Ordinary Forme,Water Fighting,Water,Fighting,580,91,72,90,129,90,108,5,FALSE,FALSE,TRUE
+647,Keldeo Resolute Forme,Water Fighting,Water,Fighting,580,91,72,90,129,90,108,5,FALSE,FALSE,TRUE
 648,Meloetta Aria Forme,Normal Psychic,Normal,Psychic,600,100,77,77,128,128,90,5,FALSE,FALSE,TRUE
 648,Meloetta Pirouette Forme,Normal Fighting,Normal,Fighting,600,100,128,90,77,77,128,5,FALSE,FALSE,TRUE
 649,Genesect,Bug Steel,Bug,Steel,600,71,120,95,120,95,99,5,FALSE,FALSE,TRUE
@@ -853,7 +853,7 @@ Number,Name,Type,Type1,Type2,Total,HP,Atk,Def,SpAk,SpDf,Spd,Generation,Legendary
 769,Sandygast,Ghost Ground,Ghost,Ground,320,55,55,80,70,45,15,7,FALSE,FALSE,FALSE
 770,Pallosand,Ghost Ground,Ghost,Ground,480,85,75,110,100,75,35,7,FALSE,FALSE,TRUE
 771,Pyukumuku,Water,Water,#N/A,410,55,60,130,30,130,5,7,FALSE,FALSE,TRUE
-772,Type:Null,Normal,Normal,#N/A,534,95,95,95,95,95,59,7,TRUE,FALSE,TRUE
+772,Type:Null,Normal,Normal,#N/A,534,95,95,95,95,95,59,7,TRUE,FALSE,FALSE
 773,Silvally,Normal,Normal,#N/A,570,95,95,95,95,95,95,7,TRUE,FALSE,TRUE
 774,Minior Meteor Form,Rock Flying,Rock,Flying,440,60,60,100,60,100,60,7,FALSE,FALSE,TRUE
 774,Minior Core Form,Rock Flying,Rock,Flying,500,60,100,60,100,60,120,7,FALSE,FALSE,TRUE
