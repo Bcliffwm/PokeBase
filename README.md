@@ -6,16 +6,16 @@ dataset I have on Pokemon. The dataset goes up to order #721, which has a little
 The last entry is Volcanion, which is a generation 6 pokemon. The current generation as of this repository's creation is generation 8. Pokemon from the Sun, Moon, Shield & 
 Sword games and their information are not included. 
 
-UPDATE: I just added a new dataset that pushes up the order to 807. As of today, 11/3/2020, the most recent generation of Pokemon in the dataset is now generation 7. 
+| UPDATE: I just added a new dataset that pushes up the order to 807. As of today, 11/3/2020, the most recent generation of Pokemon in the dataset is now generation 7. 
 
 TODO: 
 -Acquire the missing Pokemon information from Pokemon Sun, Moon, Shield & Sword
-  UPDATE: Pokemon from Sun & Moon are now included in the dataset
+  | UPDATE: Pokemon from Sun & Moon are now included in the dataset
   
 -Incorporate that data into a dataframe for pre-processing and cleaning
 
 -Bulk insert the data into the SQL database
-  UPDATE: Bulk Insertion was successful! Using pd.to_sql() is extremely useful and convenient!
+  | UPDATE: Bulk Insertion was successful! Using pd.to_sql() is extremely useful and convenient!
 
 Required Tools:
 -Python
