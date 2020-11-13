@@ -9,7 +9,7 @@ Sword games and their information are not included.
 | UPDATE: I just added a new dataset that pushes up the order to 898. As of today, 11/4/2020, the most recent generation of Pokemon in the dataset is now generation 8. 
 
 TODO: 
--Utilize Pandas, matplotlib or plotly to visualize the newly acquired data
+-Create a neural network with Keras, Tensorflow and Scikit-Learn to experiment with Neural Networks
 
 -Use the pokebase API to gather more information for the database such as abilities and moves
 
