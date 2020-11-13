@@ -243,7 +243,7 @@
 241,197,Umbreon,Dark,Dark,,525,95,65,110,60,130,65,2,FALSE,FALSE,TRUE
 242,198,Murkrow,Dark Flying,Dark,Flying,405,60,85,42,85,42,91,2,FALSE,FALSE,FALSE
 243,199,Slowking,Water Psychic,Water,Psychic,490,95,75,80,100,110,30,2,FALSE,FALSE,TRUE
-244,199,Galarian Slowking,Poison Psychic,Poison,Psychic,,,,,,,,,FALSE,FALSE,TRUE
+244,199,Galarian Slowking,Poison Psychic,Poison,Psychic,490,95,65,80,110,110,30,2,FALSE,FALSE,TRUE
 245,200,Misdreavus,Ghost,Ghost,,435,60,60,60,85,85,85,2,FALSE,FALSE,FALSE
 246,201,Unown,Psychic,Psychic,,336,48,72,48,72,48,48,2,FALSE,FALSE,TRUE
 247,202,Wobbuffet,Psychic,Psychic,,405,190,33,58,33,58,33,2,FALSE,FALSE,TRUE
